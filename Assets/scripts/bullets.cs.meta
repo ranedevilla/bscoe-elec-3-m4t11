@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c8d0c547a0db3954cad157730b745ccb
+timeCreated: 1521109694
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosion: {fileID: 198242548479878068, guid: e3803654f83e234489e6d85ac4c2fa5a,
+      type: 2}
+  - healthBar: {fileID: 114668064045926806, guid: 169371906461ec14fa0444a6f3eb562b,
+      type: 2}
+  - sounds: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
